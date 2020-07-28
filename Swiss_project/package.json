@@ -266,7 +266,7 @@
     "encoding-japanese": "^1.0.29",
     "exceljs": "^1.7.0",
     "history": "^4.7.2",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "papaparse": "^4.6.3",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
