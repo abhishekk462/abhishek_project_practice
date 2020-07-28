@@ -1,0 +1,36 @@
+#header{
+
+text-align: center;
+font-size: 30px;
+margin-top: 13px;
+font-family: 'Abel', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+}
+#Modelbtn{
+    font-size: 16px;
+    text-align: center !important;
+   
+}
+
+    #dwnModalbtn{
+      background-color:#3fba9f !important;
+        text-align: center !important;
+        color: white;
+        font-size: 16px;
+    }
+#dwnbtngrp{
+    text-align: center;
+}
+#dwnIcon{
+    color:#a9a9a9;
+}
+#Nobtn{
+    font-size: 20px;
+    border-radius: 27px;
+    font-family: 'Abel', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+#dwnModalbtn{
+    border-radius: 27px;
+    font-size: 20px;
+    font-family: 'Abel', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}

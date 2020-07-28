@@ -1,0 +1,79 @@
+.container {
+  position: absolute;
+  text-align: center;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  background:#ededed;
+}
+.pdp_tablecol{
+  background: red;
+}
+.container h2 {
+  font-size: 5rem;
+}
+#row{
+  margin-top: 55px;
+}
+.container a {
+  font-size: 1.4rem;
+}
+.pdp_assort {
+    /* float: left; */
+    margin:5rem 0 0 0 !important;
+    color:#000 !important;
+    font-size: 24px !important;
+   
+  
+}
+.pdp_uigrid{
+  margin: 0 0 0 0;
+  color: #000;
+  font-size: 16px;
+  font-family: Arial,sans-serif !important;
+  height: 47px;
+  border-bottom: 1px solid #c71c1c;
+}
+.pdp_button{
+  
+ 
+  font-size: 14px !important;
+  background: #3fba9f !important;
+  border-radius: 25px !important;
+  font-family: Abel !important;
+
+}
+.pdp_iconsdown{
+  font-size: 24px !important;
+  margin: 0.93rem 1rem 0 0 !important;
+  color: #a9a9a9;
+}
+.pdp_iconsdel{
+  font-size: 24px !important;
+  margin: 0.93rem 0rem 0 0 !important;
+  color: #a9a9a9;
+}
+
+.pdp_ftitle{
+  opacity: 0.6 !important;
+  font-size: 15px !important;
+   margin: 0rem 3rem 0px 0px !important;
+  
+}
+hr{
+  opacity:0.3!important;
+}
+
+.pdp_subtitle{
+  opacity: 0.6 !important;
+  font-size: 13px !important;
+  margin: 0 -1rem 0 0 !important; 
+}
+.pdp_grid{
+  width:70%!important;
+  background: #f6f6f6;
+  margin-bottom: -2rem!important;
+}
+.pdp_iconlign{
+  text-align: right!important;
+}

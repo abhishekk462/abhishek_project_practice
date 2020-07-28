@@ -1,0 +1,67 @@
+#titlebar {
+  -webkit-app-region: drag;
+  height: 40px;
+  line-height: 40px;
+  vertical-align: middle;
+  background-color:#ededed;
+  padding: none;
+  margin: 0;
+  border-bottom: 2px solid #3fba9f;
+  background: rgba(0, 0, 0, 0.64);
+  position: relative;
+  top:0px;
+  width: 100%;
+  display: inline-flex;
+}
+#titlebar::after {
+  height: 5px;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.64);
+  content: "";
+  position: absolute;
+  top: 40px;
+}
+#title {
+  position: fixed;
+  left: 6px;
+  color: BLACK;
+  padding: 5px 0px 0px 10px;
+  font-size: 14px;
+
+}
+
+#titlebarbtns {
+  -webkit-app-region: no-drag;
+  right: 6px;
+  line-height: 0.15 !important;
+  padding: 5px;
+  line-height: 14px;
+  position: absolute;
+}
+
+#titletxt{
+  margin-left: 57px;
+font-size: 20px;
+text-align: left;
+color: white;
+font-weight: bold;
+}
+#min-btn{
+  background-color: #dddddd;
+}
+#max-btn{
+  background-color: #dddddd;
+}
+#close-btn{
+  background-color: #dddddd;
+}
+
+#menubtn{
+  font-size: 0.185714rem !important;
+}
+.horizontalbar {
+  position: relative;
+  top: 20px;
+  height: 3px;
+  background:#3fba9f;
+}

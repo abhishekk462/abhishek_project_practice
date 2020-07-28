@@ -1,0 +1,20 @@
+.footerbar {
+  height:15px;
+  line-height: 15px;
+  vertical-align: middle;
+  background-color:#ededed;
+  padding: none;
+  margin: 0;
+  background: rgba(0, 0, 0, 0.64);
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+}
+
+.horizontalbar {
+  position: relative;
+  top: 5px;
+  height: 2px;
+  background:#3fba9f;
+}
+
