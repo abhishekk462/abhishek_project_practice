@@ -267,7 +267,7 @@
     "exceljs": "^1.7.0",
     "history": "^4.7.2",
     "jquery": "^3.3.1",
-    "papaparse": "^4.6.3",
+    "papaparse": "^5.2.0",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-dropzone": "^8.0.4",
